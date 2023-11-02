@@ -9,7 +9,7 @@ def decoder(pw):
         pw[i] = str(int(pw[i]) - 3)
     return pw
 
-
+#commwnt
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     menu = "Menu\n----------\n1. Encode\n2. Decode\n3. Quit\n\n"  # menu string variable
